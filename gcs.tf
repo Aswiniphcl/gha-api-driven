@@ -7,3 +7,5 @@ resource "google_storage_bucket" "sample_bucket" {
       enabled = false
    }
 }
+
+#end
